@@ -1,7 +1,6 @@
 import { View } from 'react-native';
 
 import Button from '../../../shared/components/button/Button';
-import { Icon } from '../../../shared/components/icon/Icon';
 import Input from '../../../shared/components/input/Input';
 import { theme } from '../../../shared/themes/theme';
 import { ContainerLogin } from '../styles/login.style';
@@ -14,8 +13,8 @@ const Login = () => {
   return (
     <View>
       <ContainerLogin>
-        <Icon name="home3" />
-        <Input placeholder="Digite seu e-mail.." title="E-mail:" />
+        <Input margin="0px 0px 8px 0px" placeholder="Digite seu e-mail.." title="E-mail:" />
+        <Input secureTextEntry placeholder="Digite sua senha.." title="Senha:" />
         <Button
           type={theme.buttons.buttonsTheme.primary}
           margin="16px"
