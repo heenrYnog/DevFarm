@@ -1,5 +1,5 @@
 import { buttonsTheme } from './buttons';
-import { grayTheme, green2Theme, greenTheme, mainTheme, neutralTheme } from './colors';
+import { grayTheme, green2Theme, greenTheme, mainTheme, neutralTheme, orangeTheme } from './colors';
 
 export const theme = {
   colors: {
@@ -8,6 +8,7 @@ export const theme = {
     mainTheme,
     greenTheme,
     green2Theme,
+    orangeTheme,
   },
   buttons: {
     buttonsTheme,

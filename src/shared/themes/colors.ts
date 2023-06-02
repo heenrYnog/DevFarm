@@ -19,3 +19,7 @@ export const green2Theme = {
 export const greenTheme = {
   green25: '#25ca1f',
 };
+
+export const orangeTheme = {
+  orange80: '#E7774D',
+};
