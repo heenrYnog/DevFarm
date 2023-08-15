@@ -1,6 +1,6 @@
 # Aplicativo em React Native
 
-Bem-vindo ao repositório do aplicativo desenvolvido em React Native! Neste projeto, criamos um aplicativo incrível utilizando a poderosa biblioteca de desenvolvimento mobile, o React Native. Nosso aplicativo é voltado para [descreva brevemente o propósito ou funcionalidade principal do aplicativo].
+Bem-vindo ao repositório do aplicativo desenvolvido em React Native! Neste projeto, criei um aplicativo utilizando a poderosa biblioteca de desenvolvimento mobile, o React Native. O aplicativo é voltado para realização de login e cadastro para fazendeiros que querem doar seus alimentos ou pessoas que querem os alimentos, estou apenas testando o login e cadastro como funcionalidade para aprendizado.
 
 ![Aplicativo em Ação](telalogin.png)
 ![Aplicativo em Ação](telacadastro.png)
@@ -9,9 +9,9 @@ Bem-vindo ao repositório do aplicativo desenvolvido em React Native! Neste proj
 
 Aqui estão algumas das principais funcionalidades que o nosso aplicativo oferece:
 
-- [Funcionalidade 1]: Logar com e-mail e senha.
-- [Funcionalidade 2]: Criar usuário.
-- [Funcionalidade 3]: Telas Home e Perfil.
+- Logar com e-mail e senha.
+- Criar usuário.
+- Telas Home e Perfil.
 
 ## Como Iniciar
 
@@ -21,3 +21,9 @@ Siga estas etapas para executar o aplicativo em sua máquina local:
 
    ```bash
    git clone https://github.com/heenrYnog/DevFarm.git
+
+2. Instale as Dependências: Navegue até o diretório do projeto e instale as dependências usando o gerenciador de pacotes de sua escolha (npm ou yarn):
+   ```bash
+   cd DevFarm
+   npm install   # ou 'yarn install' se estiver usando Yarn
+3. Necessário o back end para a aplicação rodar.
