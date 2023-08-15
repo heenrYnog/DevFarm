@@ -2,8 +2,8 @@
 
 Bem-vindo ao repositório do aplicativo desenvolvido em React Native! Neste projeto, criamos um aplicativo incrível utilizando a poderosa biblioteca de desenvolvimento mobile, o React Native. Nosso aplicativo é voltado para [descreva brevemente o propósito ou funcionalidade principal do aplicativo].
 
-![Aplicativo em Ação](DevFarm/telalogin.png)
-![Aplicativo em Ação](DevFarm/telacadastro.png)
+![Aplicativo em Ação](telalogin.png)
+![Aplicativo em Ação](telacadastro.png)
 
 ## Funcionalidades Principais
 
